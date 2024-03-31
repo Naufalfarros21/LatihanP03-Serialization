@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author asus
+ * @author naufal
  */
 
 public class Game implements Serializable {

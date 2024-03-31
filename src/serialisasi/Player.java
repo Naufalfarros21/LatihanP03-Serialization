@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author asus
+ * @author naufal
  */
 public class Player implements Serializable {
     private String Id;
